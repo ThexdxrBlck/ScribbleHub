@@ -1,4 +1,4 @@
-# NOTE APP BACKEND
+# Scribble Hub Backend
 
 - Description
 
