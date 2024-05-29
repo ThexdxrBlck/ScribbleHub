@@ -1,15 +1,15 @@
 # NOTE APP BACKEND
 
-~ Description
+- Description
 This is a simple note taking app backend. It is built using Node.js, Express and MongoDB. It is a simple REST API that allows you to create, read, update and delete notes.
 
-~ Installation
+- Installation
 Run the following commands to install the app:
 
-git clone
+''' git clone
 cd note-app-backend
-npm install
+npm install '''
 
-~ Then do the following:
+- Then do the following:
 
-npm run dev
+''' npm run dev '''
