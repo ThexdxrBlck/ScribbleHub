@@ -6,14 +6,14 @@ This is a simple note taking app backend. It is built using Node.js, Express and
 - Installation
 Run the following commands to install the app:
 
-'''
+```
 git clone
 cd note-app-backend
 npm install
-'''
+```
 
 - Then do the following:
 
-'''
+```
 npm run dev
-'''
+```
